@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+prueba.bd.dam/target/classes/META-INF/maven/prueba.bd.dam/prueba.bd.dam/pom.xml
+prueba.bd.dam/target/classes/META-INF/maven/prueba.bd.dam/prueba.bd.dam/pom.properties
+prueba.bd.dam/target/classes/META-INF/MANIFEST.MF
+prueba.bd.dam/.settings/org.eclipse.jdt.core.prefs
+prueba.bd.dam/.project
+prueba.bd.dam/.classpath
+prueba.bd.dam/.settings/org.eclipse.m2e.core.prefs
+prueba.bd.dam/pom.xml
